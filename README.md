@@ -1,6 +1,6 @@
 # Coding Team Task Manager "KodMenago"
 
-*** This Project Management App allows teams to manage tasks efficiently and track project progress. Users can create tasks with details such as due date, assignee, type of task (e.g., feature, bug, refactoring), and priority (high, medium, low). Tasks can be moved across different statuses: To Do, In Progress, Code Review, and Done. ***
+This Project Management App allows teams to manage tasks efficiently and track project progress. Users can create tasks with details such as due date, assignee, type of task (e.g., feature, bug, refactoring), and priority (high, medium, low). Tasks can be moved across different statuses: To Do, In Progress, Code Review, and Done.
 
 
 ## KodMenago key features
@@ -27,7 +27,7 @@ This app helps track who is responsible for tasks, what needs to be done, and wh
  npm install
  ```
 
- 3. Start dev server
+ 3. Start development server
 
 ```bash
 npm start
