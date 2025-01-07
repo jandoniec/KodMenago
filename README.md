@@ -27,7 +27,7 @@ This app helps track who is responsible for tasks, what needs to be done, and wh
  npm install
  ```
 
- 3. Start development server
+ 3. Launch development server
 
 ```bash
 npm start
